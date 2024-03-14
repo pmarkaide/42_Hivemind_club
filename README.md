@@ -11,3 +11,6 @@ The Hivemind Club's goal is to serve as a public forum to share the collective k
 As projects get more complex, students develop many different ways to solve the same problems. With the Implementation Camp series, we will select remarkable implementations and compare their solutions. 
 
 ## FDF
+In our first Implementation Camp event (15.03.2024), our student presenters, David Horvath (@dhorvath) and Taavi Oramo (@toramo) guided us through their implementation and logic, detailing their approach to this project and demonstrating how they utilized the mlx library to render a 3-D landscape model. Repositories to their projects can be found here:
+* [David's FDF project](https://github.com/daveekun/fdf_)
+* [Taavi's FDF project](https://github.com/taoramo/fdf)
