@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/pmarkaide/meta/raw/master/Hivemind_logo.v1.jpeg" alt="Hivemind logo" width="400"/>
+</p>
+
 # The Hivemind Club
 [Hive Helsinki](https://www.hive.fi/en/) coding school is based on peer-to-peer learning instead of traditional lesson-based pedagogy. Each student is encouraged to solve the projects through self-learning and discussion among students, but many good ideas and best practices are not shared among all the students due to time/social dynamic constraints.
 
